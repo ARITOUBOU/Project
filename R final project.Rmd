@@ -1,0 +1,17 @@
+---
+title: "R final project"
+author: "IBRAHIM ARI TOUBOU Moussa"
+date: "2023-05-29"
+output: html_document
+---
+#The main goal
+
+The aim of this project is to create shiny application that allows to explore the AirBnB Data 
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+
+```
+
